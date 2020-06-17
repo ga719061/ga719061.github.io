@@ -111,19 +111,23 @@ line-height: 24px;
 }
 .hr2{
   width:40%;
-  margin-left:140px;
+  box-sizing:border-box;
+  margin-left:100px;
   margin-top:-60px;
 }
 .hr3{
+  box-sizing:border-box;
   width:40%;
   margin-left:220px;
   margin-top:-150px;
 }
 .sml{
-  margin-left:340px;
+   box-sizing:border-box;
+  margin-left:330px;
   margin-top:-8px;
 }
 .sml2{
+  box-sizing:border-box;
   margin-left:140px;
   margin-top:118px;
 }
