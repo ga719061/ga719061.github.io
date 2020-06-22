@@ -12,6 +12,7 @@ html,body{
   margin:0px;
 }
 .title{
+  text-shadow: black 0.1em 0.1em 0.2em;
   font-weight:bold;
    margin-top:40px;
    text-align:center;
